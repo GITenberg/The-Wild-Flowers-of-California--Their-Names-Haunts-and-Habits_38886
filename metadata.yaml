@@ -1,0 +1,29 @@
+_repo: The-Wild-Flowers-of-California--Their-Names-Haunts-and-Habits_38886
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Buck, Margaret Warriner
+    gutenberg_agent_id: '39697'
+    url: http://www.gutenberg.org/2009/agents/39697
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parsons, Mary Elizabeth
+    gutenberg_agent_id: '39696'
+    url: http://www.gutenberg.org/2009/agents/39696
+description: ''
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Wild flowers -- California'
+title: 'The Wild Flowers of California: Their Names, Haunts, and Habits'
+url: http://www.gutenberg.org/ebooks/38886
